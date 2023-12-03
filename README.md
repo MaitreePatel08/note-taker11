@@ -17,3 +17,13 @@
 8. Practice modularization as a way to implement separation of concerns when coding the back-end of the application. In this case, different endpoints get their own node module, and so do custom middleware and helper functions.
 
 9. Continue learning about the connection between different methods of request (get, post, and delete) using the Fetch API on the front-end and the different routes (including some that utilize Express.js routers) defined on the back-end.
+
+
+# Installation
+
+N/A: The full stack application is actually a website deployed to Heroku. See "Credits" section for more information.
+
+
+# How to Contribute
+
+If you want to contribute, feel free to fork the repo, modify the repo on your local machine and then open a pull request. That way I can review the changes before deciding whther to merge them in the codebase or not.
